@@ -1,2 +1,2 @@
-# RProgram
+# RLang
 R to learn
